@@ -12,8 +12,6 @@ No puedes entrar y coger las cajas tú mismo. Tienes que rellenar un formulario 
 * `FROM productos...` = "...de la estantería de 'productos'..."
 * `WHERE categoria = 'Lácteos'` = "...pero solo aquellos que estén en la caja de 'lácteos'."
 
-Como Data Scientist, no puedes analizar datos que no puedes obtener. SQL es el puente entre los gigabytes de datos en bruto almacenados en un servidor y tu herramienta de análisis (Power BI, Python, R). Dominarlo te da **velocidad, autonomía y poder**, permitiéndote obtener, filtrar, transformar y agregar millones de filas de datos directamente en el origen, antes de que siquiera toquen Power BI.
-
 ---
 
 ## 1. Los 4 Pilares de SQL (Las "Leyes")
