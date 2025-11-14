@@ -920,4 +920,3 @@ La sabiduría no es solo saber qué hacer, sino qué *evitar*.
     * **Por qué no:** ¡SQL es un lenguaje basado en **conjuntos** (sets)! Es como si para mover una caja de 1000 tornillos, los movieras de uno en uno en lugar de mover la caja entera. Es lentísimo. Casi todo lo que hace un cursor se puede hacer mejor con una `Window Function`.
 4. **Usar `NVARCHAR` cuando `VARCHAR` es suficiente:**
     * `NVARCHAR` usa 2 bytes por carácter (para Unicode, ej. 🉐). `VARCHAR` usa 1 byte (para ASCII). Si solo guardas emails o códigos, usar `NVARCHAR` duplica el espacio de almacenamiento innecesariamente.
-
