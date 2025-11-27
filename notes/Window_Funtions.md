@@ -197,3 +197,4 @@ SELECT
 
 FROM traffic_table;
 ```
+
